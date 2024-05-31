@@ -226,7 +226,6 @@ audio {
     text-decoration: underline dotted;
 }
 
-
 @media (min-width : 1000px) {
     html {
         background-color: white;
